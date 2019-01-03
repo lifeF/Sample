@@ -6,4 +6,5 @@ void add(a,b){
 void test(){
     test 01 
     test 02 
+    test 02
 }
